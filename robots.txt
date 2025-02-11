@@ -1,0 +1,7 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: *
+Disallow:
+Sitemap: https://luxury-store-1o5t4.kinsta.page/sitemap.xml
